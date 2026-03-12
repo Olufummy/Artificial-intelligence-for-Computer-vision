@@ -4,8 +4,8 @@ Utility Functions for Road Safety Dashboard
 This module provides helper functions for video processing,
 image manipulation, and statistical calculations.
 
-Author: [Your Name]
-Date: 2025
+Author: Isaac O Adeboyejo
+Date: 2026
 """
 
 import cv2
