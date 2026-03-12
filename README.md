@@ -11,13 +11,13 @@ A web-based dashboard that:
 4. Shows detection statistics and visualizations
 
   # Project Overview
-What You'll Build
+What to Build
 A web-based dashboard that:
 
-Processes uploaded videos/images for object detection
-Detects and classifies objects (vehicles, pedestrians, obstacles)
-Displays alerts for potential road hazards
-Shows detection statistics and visualizations
+1. Processes uploaded videos/images for object detection
+2. Detects and classifies objects (vehicles, pedestrians, obstacles)
+3. Displays alerts for potential road hazards
+4. Shows detection statistics and visualizations
 
 
 # Technical Stack
@@ -51,7 +51,7 @@ road-detection-dashboard/
 
 
 # Development Timeline
-Since your deadline is 10/03/2026, here's a relaxed schedule:
+Deadline 10/03/2026, here's a relaxed schedule:
 
 Phase 1: Setup & Learning (Week 1-2)
  Install Python and VS Code
